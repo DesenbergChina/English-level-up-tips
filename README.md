@@ -107,7 +107,7 @@ The only way to do great work is to love what you do. If you haven't found it ye
 
 ## 转载声明
 
-转载本指南，请注明作者与 GitHub 链接，谢谢！
+本指南作者是 [BabyYoung](https://github.com/byoungd)，[该仓库](https://github.com/byoungd/English-level-up-tips)是我为了方便，在gitee的转载
 
 ## 协议/License
 
